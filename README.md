@@ -67,3 +67,6 @@ pip install torch arch pandas numpy yfinance
 
 # Run experiment
 python main.py --symbol BTC-USD
+```
+# Author 
+> Udemy: Muối 
